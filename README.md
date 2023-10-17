@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'Ttangs BudaeJjigae';
@@ -12,7 +12,7 @@ font-family: 'Ttangs BudaeJjigae';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/TtangsBudaeJjigae/TtangsBudaeJjigae.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/TtangsBudaeJjigae/TtangsBudaeJjigae.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -61,4 +61,14 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/TtangsBudaeJjigae/TtangsBudaeJjigae-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/TtangsBudaeJjigae/TtangsBudaeJjigae-Bold.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+땅스부대찌개체의 지식 재산권은 (주)티에스푸드가 보유합니다. 
+티에스푸드에서 무료로 배포하는 땅스부대찌개체는 개인, 기업 사용자 모두 자유롭게 수정 및 변경해 
+영리, 비영리 목적으로 사용할 수 있습니다.
 ```
